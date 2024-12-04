@@ -1,0 +1,16 @@
+C:\Users\gahia\source\repos\ecommerce\bin\Debug\net8.0-windows\ramansanzon.exe
+C:\Users\gahia\source\repos\ecommerce\bin\Debug\net8.0-windows\ramansanzon.deps.json
+C:\Users\gahia\source\repos\ecommerce\bin\Debug\net8.0-windows\ramansanzon.runtimeconfig.json
+C:\Users\gahia\source\repos\ecommerce\bin\Debug\net8.0-windows\ramansanzon.dll
+C:\Users\gahia\source\repos\ecommerce\bin\Debug\net8.0-windows\ramansanzon.pdb
+C:\Users\gahia\source\repos\ecommerce\obj\Debug\net8.0-windows\ecommerce.Form1.resources
+C:\Users\gahia\source\repos\ecommerce\obj\Debug\net8.0-windows\ramansanzon.csproj.GenerateResource.cache
+C:\Users\gahia\source\repos\ecommerce\obj\Debug\net8.0-windows\ramansanzon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gahia\source\repos\ecommerce\obj\Debug\net8.0-windows\ramansanzon.AssemblyInfoInputs.cache
+C:\Users\gahia\source\repos\ecommerce\obj\Debug\net8.0-windows\ramansanzon.AssemblyInfo.cs
+C:\Users\gahia\source\repos\ecommerce\obj\Debug\net8.0-windows\ramansanzon.csproj.CoreCompileInputs.cache
+C:\Users\gahia\source\repos\ecommerce\obj\Debug\net8.0-windows\ramansanzon.dll
+C:\Users\gahia\source\repos\ecommerce\obj\Debug\net8.0-windows\refint\ramansanzon.dll
+C:\Users\gahia\source\repos\ecommerce\obj\Debug\net8.0-windows\ramansanzon.pdb
+C:\Users\gahia\source\repos\ecommerce\obj\Debug\net8.0-windows\ramansanzon.genruntimeconfig.cache
+C:\Users\gahia\source\repos\ecommerce\obj\Debug\net8.0-windows\ref\ramansanzon.dll
